@@ -16,8 +16,9 @@ public class MyAudioStair : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        audioSrc.Play();
+        if (audioSrc != null && !audioSrc.isPlaying) audioSrc.Play();
         Debug.Log("Trigger detected with " + other.gameObject.name);    
     }
 
 }
+
