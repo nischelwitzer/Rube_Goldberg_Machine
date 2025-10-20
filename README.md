@@ -33,4 +33,5 @@ Debug.Log("Generic Collision detected with " + collision.gameObject.name);
 
 ```
 [SerializeField] private UnityEvent myColliderEventEnter = null;
+myColliderEventEnter.Invoke();
 ```
