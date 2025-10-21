@@ -7,9 +7,14 @@ public class TrampolinAddForce : MonoBehaviour
 
     void OnCollisionEnter(Collision collision)
     {
-        Rigidbody myOtherObject = collision.gameObject.GetComponent<Rigidbody>();
-        Vector3 myForce = new Vector3(0, myAddForceValue, 0);
-        myOtherObject.AddForce(myForce * myOtherObject.mass);
+        Rigidbody myOtherObjectRB = collision.gameObject.GetComponent<Rigidbody>();
+
+        // Vector3 myForce = new Vector3(0, myAddForceValue, 0);
+        // oder 
+        Vector3 myForce = Vector3.up * myAddForceValue;
+
+        if (myOtherObjectRB != null)
+            myOtherObjectRB.AddForce(myForce * myOtherObjectRB.mass);
 
         Debug.Log("OnCollisionEnter: " + collision.gameObject.name);
     }
