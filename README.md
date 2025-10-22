@@ -1,6 +1,6 @@
 # Rube_Goldberg_Machine
 
-<img src="./pic/rgm_start.png" widht="500">
+<img src="./pic/rgm_start.png" widht="450">
 
 ## Part 1
 * BallGoBack
