@@ -9,14 +9,15 @@
 * CamFollow Ball
 
 ## Part 2
-* Text Mesh Pro, eigener Font
-  * Time
-* Trampolin
-* Teleporter 
+* Particle Effects with Events
+* Trampolin (AddForce)
+* Teleporter (position)
+* Text Mesh Pro, eigener Font (TTF) <a href="https://www.1001freefonts.com/fixed-width-fonts.php">free fixed width Fonts</a>
+  * Time (ms)
 
 ## Part 3
-* Text Mesh Pro, eigener Font
-  * Rounds
+* Rounds
+* Round Time
 * ResetPosition
   
 Übung: Particle System mit GenericEvents
