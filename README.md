@@ -14,7 +14,7 @@ Lecture Material for Business Informatics, Graz, Austria
 
 ## Part 2
 * Particle Effects with Events - <a href="https://assetstore.unity.com/packages/vfx/particles/spells/magic-effects-free-247933" target="_blank">free particle Effects</a>
-* Trampolin (AddForce)
+* Trampolin (AddForce) Cylinder with MeshCollider
 * Teleporter (position)
 * Text Mesh Pro, eigener Font (TTF) <a href="https://www.1001freefonts.com/fixed-width-fonts.php" target="_blank">free fixed width Fonts</a>
   * Time (ms)
@@ -25,7 +25,6 @@ Lecture Material for Business Informatics, Graz, Austria
 * ResetPosition
 
 ## Collider & Trigger
-
 ```
 private void OnTriggerEnter(Collider other)
 Debug.Log("Generic Trigger detected with " + other.gameObject.name);
@@ -35,8 +34,14 @@ Debug.Log("Generic Collision detected with " + collision.gameObject.name);
 ```
 
 ## Event Example
-
 ```
 [SerializeField] private UnityEvent myColliderEventEnter = null;
 myColliderEventEnter.Invoke();
 ```
+
+## Trampolin Direction
+Ball Force with correct trampolin "rotation" and not only Vector3.up 
+```
+Vector3 myForce = this.transform.forward * myAddForceValue;
+```
+
