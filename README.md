@@ -22,7 +22,8 @@ Lecture Material for Business Informatics, Graz, Austria
 ## Part 3
 * Rounds
 * Round Time
-* ResetPosition
+* ResetPosition (TotalRecall)
+* Animation
 
 ## Collider & Trigger
 ```
