@@ -2,7 +2,7 @@
 
 Lecture Material for Business Informatics, Graz, Austria
 
-<img src="./pic/rgm_start.png" width="400">
+<img src="./pic/rgm_start.png" width="550">
 
 ## Part 1
 * BallGoBack
