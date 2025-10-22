@@ -19,6 +19,11 @@ Lecture Material for Business Informatics, Graz, Austria
 * Text Mesh Pro, eigener Font (TTF) <a href="https://www.1001freefonts.com/fixed-width-fonts.php" target="_blank">free fixed width Fonts</a>
   * Time (ms)
 
+## AddOn (Lecture)
+* Application Manager
+* InGame DebugConsole
+* Static Store
+* 
 ## Part 3
 * Rounds
 * Round Time
