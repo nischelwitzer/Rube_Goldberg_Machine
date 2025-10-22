@@ -1,4 +1,6 @@
-# Rube_Goldberg_Machine
+# Rube_Goldberg_Machine (RGM)
+
+Lecture Material for Business Informatics, Graz, Austria
 
 <img src="./pic/rgm_start.png" widht="450">
 
