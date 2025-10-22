@@ -1,5 +1,7 @@
 # Rube_Goldberg_Machine
 
+<img src="./pic/rgm_start.png" widht="500">
+
 ## Part 1
 * BallGoBack
 * AudioPlay
