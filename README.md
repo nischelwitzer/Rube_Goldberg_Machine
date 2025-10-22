@@ -9,10 +9,10 @@
 * CamFollow Ball
 
 ## Part 2
-* Particle Effects with Events - <a href="https://assetstore.unity.com/packages/vfx/particles/spells/magic-effects-free-247933" target="_new">free particle Effects</a>
+* Particle Effects with Events - <a href="https://assetstore.unity.com/packages/vfx/particles/spells/magic-effects-free-247933" target="_blank">free particle Effects</a>
 * Trampolin (AddForce)
 * Teleporter (position)
-* Text Mesh Pro, eigener Font (TTF) <a href="https://www.1001freefonts.com/fixed-width-fonts.php" target="_new">free fixed width Fonts</a>
+* Text Mesh Pro, eigener Font (TTF) <a href="https://www.1001freefonts.com/fixed-width-fonts.php" target="_blank">free fixed width Fonts</a>
   * Time (ms)
 
 ## Part 3
