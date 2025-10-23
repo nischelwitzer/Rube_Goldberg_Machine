@@ -23,7 +23,7 @@ Lecture Material for Business Informatics, Graz, Austria
 * Application Manager
 * InGame DebugConsole
 * Static Store
-* 
+
 ## Part 3
 * Rounds
 * Round Time
