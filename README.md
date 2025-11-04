@@ -22,13 +22,13 @@ Lecture Material for Business Informatics, Graz, Austria
 ## AddOn (Lecture)
 * Application Manager
 * InGame DebugConsole
-* Static Store
+* (Static Store)
 
 ## Part 3
 * Rounds
 * Round Time
 * ResetPosition (TotalRecall)
-* Animation
+* (Animation)
 
 ## Collider & Trigger
 ```
